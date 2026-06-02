@@ -32,3 +32,7 @@ Create an upbeat daily status report for the team as a GitHub issue.
 - Include relevant statistics and metrics
 - Use markdown formatting with headers, bullet points, and tables
 - Keep the report concise but informative
+
+- CI/CD health and recent failures
+- Open PRs that need review attention
+- Issues that have been stale for more than 7 days
