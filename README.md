@@ -1,0 +1,2 @@
+# COPILOT_GITHUB_TOKEN
+ハンズオン用
